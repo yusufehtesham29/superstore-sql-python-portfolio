@@ -1,0 +1,20 @@
+# Data Analysis and Manipulation
+pandas==2.1.4
+numpy==1.26.2
+
+# Database
+sqlite3  # Built-in with Python, no need to install
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Jupyter Notebook
+jupyter==1.0.0
+notebook==7.0.6
+
+# Data Quality
+missingno==0.5.2
+
+# SQL Integration
+sqlalchemy==2.0.23
